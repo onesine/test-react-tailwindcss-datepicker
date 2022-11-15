@@ -1,6 +1,6 @@
 import {useState} from "react";
-// import Datepicker from "react-tailwindcss-datepicker";
-import Datepicker from "./package";
+import Datepicker from "react-tailwindcss-datepicker";
+// import Datepicker from "./package";
 
 const App = () => {
     const [period, setPeriod] = useState({
@@ -9,13 +9,13 @@ const App = () => {
     });
 
     return (
-        <div className="min-h-screen max-h-screen pt-8 md:pt-0 flex md:items-center justify-center px-4">
-           <div className="w-full lg:w-2/3 p-4 h-96 flex justify-center rounded-md bg-gray-100 border shadow-sm">
+        <div className="min-h-screen max-h-screen dark:bg-slate-900 pt-8 md:pt-0 flex md:items-center justify-center px-4">
+           <div className="w-full lg:w-2/3 p-4 h-96 flex justify-start -mt-16 rounded-md bg-gray-100 border shadow-sm dark:bg-slate-900 dark:border-slate-600">
                 <div className="w-full md:w-3/4 lg:w-2/4 pt-8 lg:pt-5">
                     <Datepicker
-                        i18n={"fr"}
-                        primaryColor={"rose"}
-                        configs={{
+                        i18n={"en"}
+                        primaryColor={"fuchsia"}
+                        /*configs={{
                             shortcuts: {
                                 today: "Aujourd'hui",
                                 yesterday: "Hier",
@@ -27,7 +27,7 @@ const App = () => {
                                 cancel: "Quitter",
                                 apply: "Appliquer"
                             }
-                        }}
+                        }}*/
                         asSingle={false}
                         // placeholder={"My placehoder"}
                         // separator={"to"}

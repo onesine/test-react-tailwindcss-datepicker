@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="706cdd08-6d29-4643-8fe9-88fcde5b952f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/components/Calendar/Days.d.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/components/Calendar/Months.d.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/components/Calendar/Week.d.ts" beforeDir="false" />
@@ -22,7 +25,10 @@
       <change beforePath="$PROJECT_DIR$/dist/index.esm.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.esm.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rollup.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Calendar/Days.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Calendar/Months.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Calendar/Week.tsx" beforeDir="false" />
@@ -39,7 +45,11 @@
       <change beforePath="$PROJECT_DIR$/src/hooks/index.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/package/components/Input.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/package/components/Input.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/package/components/utils.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/package/components/utils.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/package/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/package/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/types/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +133,7 @@
       <updated>1667985977994</updated>
       <workItem from="1667985979100" duration="113423000" />
       <workItem from="1668409755774" duration="32727000" />
-      <workItem from="1668446660324" duration="20973000" />
+      <workItem from="1668446660324" duration="24547000" />
     </task>
     <servers />
   </component>

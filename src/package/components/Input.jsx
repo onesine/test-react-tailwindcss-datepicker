@@ -15,7 +15,7 @@ const Input = () => {
 
     // Functions
     const getClassName = useCallback(() => {
-        return `transition-all duration-300 py-2.5 pl-4 pr-14 w-full border-gray-300 dark:bg-slate-800 dark:text-white/80 rounded-lg tracking-wide font-light text-sm placeholder-gray-400 bg-white focus:ring ${BORDER_COLOR.focus[primaryColor]} ${RING_COLOR["second-focus"][primaryColor]}`;
+        return `transition-all duration-300 py-2.5 pl-4 pr-14 w-full border-gray-300 dark:bg-slate-800 dark:text-white/80 dark:border-slate-600 rounded-lg tracking-wide font-light text-sm placeholder-gray-400 bg-white focus:ring ${BORDER_COLOR.focus[primaryColor]} ${RING_COLOR["second-focus"][primaryColor]}`;
     }, [primaryColor]);
 
     const handleInputChange = useCallback((e) => {
