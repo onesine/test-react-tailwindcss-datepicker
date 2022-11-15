@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="706cdd08-6d29-4643-8fe9-88fcde5b952f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/dist/components/Calendar/Days.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/components/Calendar/Months.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/components/Calendar/Week.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/components/Calendar/Years.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/components/Calendar/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/components/Datepicker.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/components/Footer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/components/Input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/components/Shortcuts.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/components/utils.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/constants/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/contexts/DatepickerContext.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/helpers/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/hooks/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.cjs.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Calendar/Days.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Calendar/Months.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Calendar/Week.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Calendar/Years.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Calendar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Datepicker.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Input.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Shortcuts.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/utils.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contexts/DatepickerContext.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/index.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HIwbZlTUXSd768tt3vHjRVZKBZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/dmd-dev4/Documents/workspace/Lab react/test-react-tailwindcss-datepicker",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/Users/dmd-dev4/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/222.4167.21/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/package" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start (1)">
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start (1)" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="706cdd08-6d29-4643-8fe9-88fcde5b952f" name="Changes" comment="" />
+      <created>1667985977994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667985977994</updated>
+      <workItem from="1667985979100" duration="113423000" />
+      <workItem from="1668409755774" duration="32727000" />
+      <workItem from="1668446660324" duration="20973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
