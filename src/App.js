@@ -10,11 +10,11 @@ const App = () => {
 
     return (
         <div className="min-h-screen max-h-screen dark:bg-slate-900 pt-8 md:pt-0 flex md:items-center justify-center px-4">
-           <div className="w-full lg:w-2/3 p-4 h-96 flex justify-start -mt-16 rounded-md bg-gray-100 border shadow-sm dark:bg-slate-900 dark:border-slate-600">
+           <div className="w-full lg:w-2/3 p-4 h-96 flex justify-start -mt-16 rounded-md bg-grfay-100 bforder shadofw-sm dark:bg-slate-900 dark:border-slate-600">
                 <div className="w-full md:w-3/4 lg:w-2/4 pt-8 lg:pt-5">
                     <Datepicker
                         i18n={"en"}
-                        primaryColor={"fuchsia"}
+                        primaryColor={"teal"}
                         /*configs={{
                             shortcuts: {
                                 today: "Aujourd'hui",

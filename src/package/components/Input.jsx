@@ -1,5 +1,5 @@
 import {CloseIcon, DateIcon} from "./utils";
-import {useCallback, useContext, useLayoutEffect, useRef} from "react";
+import {useCallback, useContext, useEffect, useRef} from "react";
 import {DatepickerContext} from "../index";
 import {BORDER_COLOR, RING_COLOR} from "../constants";
 import dayjs from "dayjs";
@@ -39,7 +39,7 @@ const Input = () => {
     }, [changeDatepickerValue, changeDayHover, changeInputText, hideDatepicker]);
 
     // UseEffects && UseLayoutEffect
-    useLayoutEffect(() => {
+    useEffect(() => {
         if (buttonRef?.current) {
             const button = buttonRef?.current;
             function focusInput (e) {
@@ -73,7 +73,7 @@ const Input = () => {
         }
     }, [changeDatepickerValue, changeDayHover, changeInputText, dayHover, inputText, period.end, period.start]);
 
-    useLayoutEffect(() => {
+    useEffect(() => {
         const div = calendarContainer.current;
         const input = inputRef.current;
         if (div && input) {
