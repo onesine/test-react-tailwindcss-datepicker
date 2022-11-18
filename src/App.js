@@ -1,6 +1,5 @@
 import {useState} from "react";
 import Datepicker from "react-tailwindcss-datepicker";
-// import Datepicker from "./package";
 
 const App = () => {
     const [period, setPeriod] = useState({
@@ -14,7 +13,7 @@ const App = () => {
                 <div className="w-full md:w-3/4 lg:w-2/4 pt-8 lg:pt-5">
                     <Datepicker
                         i18n={"en"}
-                        primaryColor={"teal"}
+                        primaryColor={"pink"}
                         /*configs={{
                             shortcuts: {
                                 today: "Aujourd'hui",
